@@ -1,0 +1,1 @@
+The contests can be found here: [B02](https://codeforces.com/group/hoDVdIvtE3/contest/695864), [A02](https://codeforces.com/group/hoDVdIvtE3/contest/695993)
