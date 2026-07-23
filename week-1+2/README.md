@@ -1,4 +1,4 @@
-# Week 1 – Brushing the Basics
+# Week 1 & 2 – Brushing the Basics
 **WEE CEE PEE | Season of Code**
 
 Get comfortable with the fundamentals. Read, code, submit.
